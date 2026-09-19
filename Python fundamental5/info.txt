@@ -1,4 +1,5 @@
-Name = kunal diwanji chaure
+123e = kunal diwanji chaure //here there was name at starting but it is overide by the r+
 college = zeal college of engineering pune
 Branch = Artificial Intelligence and Data 
 Current year = 2nd year 
+this is data is inserted using apend 123 123 123 123 123
